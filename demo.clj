@@ -1,5 +1,5 @@
 ;; Clojure!
-
+;; https://github.com/trystan/clj-demo
 
 
 ;; www.tryclj.com
